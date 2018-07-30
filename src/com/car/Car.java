@@ -25,14 +25,6 @@ public class Car {
 		this.price = price;
 	}
 	
-//	public int getNum() {
-//		return num;
-//	}
-//	
-//	public void setNum(int num) {
-//		this.num = num;
-//	}
-
 	public String getMake() {
 		return make;
 	}
